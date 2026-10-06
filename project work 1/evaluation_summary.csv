@@ -1,0 +1,6 @@
+File,Accuracy,BalancedAcc,Precision,Recall,F1,Total Samples,Anomalies Detected
+substation_0_aug.csv,0.0,0.0,0.0,0.0,0.0,3000,3000
+substation_1_aug.csv,100.0,100.0,100.0,100.0,100.0,3000,3000
+substation_2_aug.csv,100.0,100.0,100.0,100.0,100.0,3000,3000
+substation_3_aug.csv,100.0,100.0,100.0,100.0,100.0,3000,3000
+substation_4_aug.csv,100.0,100.0,100.0,100.0,100.0,3000,3000

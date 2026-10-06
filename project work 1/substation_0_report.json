@@ -1,0 +1,16 @@
+{
+    "substation_id": 0,
+    "status": "Corrupted",
+    "total_samples": 9,
+    "threshold": 43.52274856567383,
+    "anomaly_count": 1,
+    "anomaly_percentage": 11.111,
+    "anomalies": [
+        {
+            "index": 6,
+            "error": 45.271488189697266,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        }
+    ]
+}

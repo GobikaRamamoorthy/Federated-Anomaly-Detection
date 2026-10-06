@@ -1,0 +1,353 @@
+{
+    "substation_id": 0,
+    "status": "Corrupted",
+    "total_samples": 49,
+    "threshold": 0.0012004689779132605,
+    "anomaly_count": 6,
+    "anomaly_percentage": 12.24,
+    "rows": [
+        {
+            "row": 0,
+            "error": 0.0006804884178563952,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 1,
+            "error": 0.0003827720647677779,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 2,
+            "error": 0.0010372195392847061,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 3,
+            "error": 9.639026393415406e-05,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 4,
+            "error": 0.0006254409672692418,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 5,
+            "error": 0.0005606926279142499,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 6,
+            "error": 0.00015809867181815207,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 7,
+            "error": 0.0003918493748642504,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 8,
+            "error": 0.0005181363667361438,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 9,
+            "error": 0.0003273155016358942,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 10,
+            "error": 0.0002519369591027498,
+            "anomaly": false,
+            "predicted_label": 1,
+            "predicted_type": "Sag"
+        },
+        {
+            "row": 11,
+            "error": 0.00036796272615902126,
+            "anomaly": false,
+            "predicted_label": 1,
+            "predicted_type": "Sag"
+        },
+        {
+            "row": 12,
+            "error": 0.00044212082866579294,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 13,
+            "error": 0.0021338490769267082,
+            "anomaly": true,
+            "predicted_label": 1,
+            "predicted_type": "Sag"
+        },
+        {
+            "row": 14,
+            "error": 0.00013066070096101612,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 15,
+            "error": 0.0004627165908459574,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 16,
+            "error": 0.00027105436311103404,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 17,
+            "error": 0.0002989591157529503,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 18,
+            "error": 0.0010200252290815115,
+            "anomaly": false,
+            "predicted_label": 1,
+            "predicted_type": "Sag"
+        },
+        {
+            "row": 19,
+            "error": 0.0015239830827340484,
+            "anomaly": true,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 20,
+            "error": 0.0015577750746160746,
+            "anomaly": true,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 21,
+            "error": 0.00020732302800752223,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 22,
+            "error": 0.00021120725432410836,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 23,
+            "error": 7.31156615074724e-05,
+            "anomaly": false,
+            "predicted_label": 2,
+            "predicted_type": "Swell"
+        },
+        {
+            "row": 24,
+            "error": 0.0017636189004406333,
+            "anomaly": true,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 25,
+            "error": 0.00036101596197113395,
+            "anomaly": false,
+            "predicted_label": 1,
+            "predicted_type": "Sag"
+        },
+        {
+            "row": 26,
+            "error": 0.00040453585097566247,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 27,
+            "error": 0.00013098929775878787,
+            "anomaly": false,
+            "predicted_label": 2,
+            "predicted_type": "Swell"
+        },
+        {
+            "row": 28,
+            "error": 0.0007610310567542911,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 29,
+            "error": 0.0005208184593357146,
+            "anomaly": false,
+            "predicted_label": 2,
+            "predicted_type": "Swell"
+        },
+        {
+            "row": 30,
+            "error": 0.00047728189383633435,
+            "anomaly": false,
+            "predicted_label": 2,
+            "predicted_type": "Swell"
+        },
+        {
+            "row": 31,
+            "error": 0.00011924652790185064,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 32,
+            "error": 0.0003056083805859089,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 33,
+            "error": 0.0003763953282032162,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 34,
+            "error": 0.0002962704747915268,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 35,
+            "error": 0.00028063604258932173,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 36,
+            "error": 0.0011659644078463316,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 37,
+            "error": 0.0011264476925134659,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 38,
+            "error": 0.0022208169102668762,
+            "anomaly": true,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 39,
+            "error": 0.0007248047040775418,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 40,
+            "error": 0.00046678760554641485,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 41,
+            "error": 0.00014362861111294478,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 42,
+            "error": 0.0008646009373478591,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 43,
+            "error": 0.0025897894520312548,
+            "anomaly": true,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        },
+        {
+            "row": 44,
+            "error": 0.0003228378191124648,
+            "anomaly": false,
+            "predicted_label": 2,
+            "predicted_type": "Swell"
+        },
+        {
+            "row": 45,
+            "error": 0.0001531871675979346,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 46,
+            "error": 9.138746099779382e-05,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 47,
+            "error": 0.00034526517265476286,
+            "anomaly": false,
+            "predicted_label": 0,
+            "predicted_type": "Normal"
+        },
+        {
+            "row": 48,
+            "error": 0.0004522157250903547,
+            "anomaly": false,
+            "predicted_label": 3,
+            "predicted_type": "Transient"
+        }
+    ]
+}

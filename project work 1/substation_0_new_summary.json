@@ -1,0 +1,11 @@
+{
+    "total_samples": 49,
+    "predicted_normal": 9,
+    "predicted_abnormal": 40,
+    "threshold_used": 0.2900256395339956,
+    "threshold_method": "99th Percentile",
+    "mean_reconstruction_error": 8.82586669921875,
+    "std_reconstruction_error": 7.647327899932861,
+    "min_reconstruction_error": 0.038890182971954346,
+    "max_reconstruction_error": 29.07026481628418
+}
